@@ -33,6 +33,7 @@ node index.js
 ```
 
 App runs at: `http://localhost:8080`
+Hosted here:`https://mini-quora-vev6.onrender.com`
 
 ---
 
