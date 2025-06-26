@@ -19,7 +19,7 @@ It supports creating, editing, deleting, and viewing posts using server-side ren
   <img src="./assets/Home.png" width="45%" style="margin:10px;" />
   <img src="./assets/New_Post.png" width="45%" style="margin:10px;" />
   <br>
-  <img src="./assets/Edit_Post.png" width="45%" style="margin:10px;" />
+  <img src="./assets/Edit.png" width="45%" style="margin:10px;" />
   <img src="./assets/See_in_detail.png" width="45%" style="margin:10px;" />
 </p>
 
