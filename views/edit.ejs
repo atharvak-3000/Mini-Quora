@@ -11,7 +11,7 @@
     <h2>Edit your Post </h2>
     <p>Post id : <%=post.id%></p>
     <p>Post Username : <%= post.username %></p>
-    <form method="post" action="/posts/<%=post.id%>?_method=PATCH">
+    <form class="post" method="post" action="/posts/<%=post.id%>?_method=PATCH">
         <textarea name="content" id=""><%= post.content %></textarea>
         <button>Submit !</button>
     </form>
