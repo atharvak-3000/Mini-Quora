@@ -31,9 +31,10 @@ cd your-repo-name
 npm install
 node index.js
 ```
-
 App runs at: `http://localhost:8080`
-Hosted here:`https://mini-quora-vev6.onrender.com`
+
+## 🔗 Live Site
+[Click here to view ](https://mini-quora-cf9b.onrender.com)
 
 ---
 
