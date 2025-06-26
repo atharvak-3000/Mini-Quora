@@ -41,7 +41,8 @@ let posts = [
 
 
 app.get("/", (req, res) => {
-  res.send("Mini-Quora is Live!");
+//   res.send("Mini-Quora is Live!");
+  res.redirect("/posts");
 });
 
 //paths
