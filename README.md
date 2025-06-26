@@ -26,15 +26,15 @@ It supports creating, editing, deleting, and viewing posts using server-side ren
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/atharvak-3000/Mini-Quora.git
+cd Mini-Quora
 npm install
 node index.js
 ```
 App runs at: `http://localhost:8080`
 
 ## 🔗 Live Site
-[Click here to view ](https://mini-quora-cf9b.onrender.com)
+[👉 Click here to view live !](https://mini-quora-vev6.onrender.com)
 
 ---
 
